@@ -1,15 +1,15 @@
 # sql-banking-data-analysis
 MySQL banking data analysis project covering customers, accounts, transactions, loans, credit cards, customer segmentation, financial profiling, and credit risk analysis.
 
-# 🏦 Banking Data Analysis Using SQL
+#  Banking Data Analysis Using SQL
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing banking data using **MySQL** to answer real-world business questions and generate meaningful insights.
 
 The analysis covers five main areas: **customers, accounts, transactions, loans, and credit cards**. It contains **30 business questions**, ranging from basic analysis to more advanced customer segmentation, financial profiling, asset ranking, and credit-risk analysis.
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are to:
 
@@ -23,7 +23,7 @@ The main objectives of this project are to:
 * Identify customers with potential credit risk
 * Build comprehensive customer financial profiles
 
-## 🗄️ Database Structure
+##  Database Structure
 
 The project uses five tables:
 
@@ -38,13 +38,13 @@ The project uses five tables:
 The SQL project starts by selecting the banking database and working with these five tables.
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **MySQL**
 * **MySQL Workbench**
 * **GitHub**
 
-## 📊 Analysis Areas
+##  Analysis Areas
 
 ### Customer Analysis
 
@@ -66,7 +66,7 @@ Analyzes the total loan portfolio, common loan types, remaining loan balances, a
 
 Examines cards issued, credit limits, card types, and balances.
 
-## 🚀 Advanced Analysis
+##  Advanced Analysis
 
 The project also includes more advanced business-oriented analysis, including:
 
@@ -79,7 +79,7 @@ The project also includes more advanced business-oriented analysis, including:
 
 The final analysis combines information from all five tables to create a broader financial profile for each customer.
 
-## 🧠 SQL Skills Demonstrated
+## SQL Skills Demonstrated
 
 This project demonstrates practical use of:
 
@@ -97,7 +97,7 @@ This project demonstrates practical use of:
 * Customer segmentation
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open **MySQL Workbench**.
 2. Create or import the `banking_dataanalysis` database.
@@ -106,7 +106,7 @@ This project demonstrates practical use of:
 4. Open `banking_dataanalysis_queries.sql`.
 5. Run the queries individually or section by section.
 
-## 💡 Key Learning Outcomes
+##  Key Learning Outcomes
 
 This project helped me strengthen my ability to:
 
@@ -118,7 +118,7 @@ This project helped me strengthen my ability to:
 * Perform customer segmentation
 * Use SQL to generate business-oriented insights
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Future versions of this project could include:
 
@@ -128,7 +128,7 @@ Future versions of this project could include:
 * Developing more detailed customer risk models
 * Automating reporting workflows
 
-## 👨‍💻 Author
+##  Author
 
 **Egesa**
 
